@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keranjang Belanja</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_nasi_goreng">Nasi Goreng - Rp 25.000</string>
+    <string name="menu_mie_goreng">Mie Goreng - Rp 30.000</string>
+    <string name="menu_ayam_goreng">Ayam Goreng - Rp 35.000</string>
+    
+    <!-- Add-ons -->
+    <string name="addon_telur">Telur - Rp 5.000</string>
+    <string name="addon_kerupuk">Kerupuk - Rp 3.000</string>
+    <string name="addon_es_teh">Es Teh - Rp 7.000</string>
+    
+    <!-- Labels -->
+    <string name="label_select_menu">Pilih Menu</string>
+    <string name="label_addons">Tambahan</string>
+    <string name="label_voucher">Kode Voucher</string>
+    <string name="label_apply_voucher">Gunakan</string>
+    <string name="label_total_price">Total Harga:</string>
+    <string name="label_checkout">Checkout</string>
+    
+    <!-- Messages -->
+    <string name="msg_select_menu">Silakan pilih menu terlebih dahulu</string>
+    <string name="msg_voucher_applied">Voucher %d%% berhasil digunakan!</string>
+    <string name="msg_voucher_invalid">Kode voucher tidak valid</string>
+    <string name="msg_voucher_used">Voucher sudah digunakan</string>
+    <string name="msg_enter_voucher">Masukkan kode voucher</string>
+    <string name="msg_thank_you">Terima kasih telah berbelanja!</string>
+    <string name="msg_total_payment">Total pembayaran: %s</string>
+    
+    <!-- Button Text -->
+    <string name="btn_apply">Gunakan</string>
+    <string name="btn_checkout">Checkout</string>
+    
+    <!-- Voucher Codes -->
+    <string name="voucher_10">DISKON10</string>
+    <string name="voucher_20">DISKON20</string>
+    <string name="voucher_50">DISKON50</string>
+</resources>
